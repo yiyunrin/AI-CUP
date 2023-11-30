@@ -12,11 +12,11 @@
     用來處理play style的public test和private test的資料，將資料轉換成hdf5檔。
     
 ## Training
-訓練模型有以下3個程式碼：
+訓練模型有以下3個程式碼，分別用來訓練Dan, Kyu, PlayStyle的模型：
 1. Dan Training.ipynb
 2. Kyu Training.ipynb
-3. 
+3. PlayStyle Training.ipynb
 
 ## 預測和寫檔
-1. Create Upload CSV.ipynb
-    用來寫要上傳到AI CUP上的CSV檔
+1. Create Upload CSV.ipynb：<br/>
+    用來預測結果和寫要上傳到AI CUP上的CSV檔。
