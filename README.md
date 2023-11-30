@@ -2,13 +2,13 @@
 
 ## 資料前處裡
 資料前處理有以下4個程式碼：
-1. data preprocessing_kyu_dan.ipynb
+1. data preprocessing_kyu_dan.ipynb：
     用來處理kyu和dan的training dataset。
-3. data preprocessing_style_best.ipynb
+3. data preprocessing_style_best.ipynb：
     用來處理play style的training dataset。
-5. data preprocessing_test_dan_kyu.ipynb
+5. data preprocessing_test_dan_kyu.ipynb：
     用來處理kyu和dan的public test和private test的資料。
-7. data preprocessing_test_style.ipynb
+7. data preprocessing_test_style.ipynb：
     用來處理play style的public test和private test的資料。
     
 ## Training
