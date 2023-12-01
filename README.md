@@ -65,3 +65,8 @@
         1. dan, kyu, play style預測資料的hdf5檔。
         2. dan, kyu, play style的模型。
     - 輸出：預測結果的csv檔。
+
+### P.S. 以上模型是在private拿到最高分的模型
+
+## Last Update Date
+2023/12/01
